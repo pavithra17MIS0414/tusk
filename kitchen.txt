@@ -4,4 +4,7 @@ pizza
 burger
 chicken fry
 
+beans
+carrot
+
 thank you
